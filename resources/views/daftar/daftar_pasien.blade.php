@@ -14,7 +14,7 @@
 <div class="border shadow-md sm:rounded-lg">
     <!-- Search bar tanpa tombol -->
     <div class="flex justify-between py-3 p-[27.5px] border-b">
-         <form class="min-w-[338px] rounded-sm">   
+         <form class="min-w-[338px] rounded-sm">
              <label for="search" class="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
              <div class="relative">
                  <div class="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
@@ -31,9 +31,9 @@
                 <path fill-rule="evenodd" clip-rule="evenodd" d="M4.45898 2.375H15.5423L7.47998 10.4373C7.34994 10.1037 7.13815 9.80805 6.86407 9.57758C6.68357 9.42083 6.43103 9.27913 5.92753 8.99492L3.6214 7.69658C2.87011 7.27462 2.49486 7.06325 2.28982 6.72283C2.08398 6.38162 2.08398 5.96996 2.08398 5.14821V4.60196C2.08398 3.55221 2.08398 3.02654 2.43232 2.70037C2.77907 2.375 3.33878 2.375 4.45898 2.375Z" fill="#1B84FF"/>
                 <path opacity="0.5" d="M17.9166 5.149V4.60275C17.9166 3.553 17.9166 3.02733 17.5683 2.70117C17.2216 2.375 16.6618 2.375 15.5416 2.375L7.47852 10.4373C7.5181 10.5392 7.55003 10.6455 7.57431 10.7564C7.62497 10.982 7.62497 11.2464 7.62497 11.7745V13.8882C7.62497 14.6078 7.62497 14.968 7.82447 15.2483C8.02397 15.5293 8.37864 15.6679 9.08639 15.945C10.5739 16.526 11.3173 16.8166 11.8461 16.4857C12.375 16.1547 12.375 15.3995 12.375 13.8874V11.7737C12.375 11.2464 12.375 10.982 12.4248 10.7564C12.5245 10.2949 12.7752 9.87975 13.1373 9.57679C13.3171 9.42083 13.5688 9.27913 14.0731 8.99492L16.3792 7.69658C17.1297 7.27463 17.5058 7.06325 17.7108 6.72283C17.9166 6.38242 17.9166 5.97075 17.9166 5.149Z" fill="#1B84FF"/>
             </svg>
-            Filters</button> 
+            Filters</button>
      </div>
-     
+
     <div class="px-[67.5px] place-items-center">
      <table class="w-full text-sm text-left rtl:text-right text-gray-500 mx-10">
         <thead class="text-xs text-gray-700 bg-gray-50">
@@ -319,13 +319,13 @@
                 0812182930100
                 </td>
             </tr>
-                        
+
         </tbody>
     </table>
     </div>
 
     <nav aria-label="Page navigation example" class="place-self-end my-4 me-5">
-        <div class="flex justify-between items-center"><span class="font-semibold text-[13px] text-[#78829D]">1-10 of 52</span>  
+        <div class="flex justify-between items-center"><span class="font-semibold text-[13px] text-[#78829D]">1-10 of 52</span>
         <ul class="flex items-center -space-x-px h-8 text-sm">
         <li>
         <a href="#" class="flex items-center justify-center px-3 h-8 ms-0 leading-tight text-gray-500 bg-white rounded-s-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
@@ -361,7 +361,7 @@
     </ul>
     </nav>
         </div>
-    
+
 
 </div>
 

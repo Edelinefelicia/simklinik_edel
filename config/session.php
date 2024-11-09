@@ -18,7 +18,8 @@ return [
     |
     */
 
-    'driver' => env('SESSION_DRIVER', 'file'),
+    // 'driver' => env('SESSION_DRIVER', 'file'),c
+    'driver' => 'database',
 
     /*
     |--------------------------------------------------------------------------
@@ -38,7 +39,8 @@ return [
     /*
     |--------------------------------------------------------------------------
     | Session Encryption
-    |--------------------------------------------------------------------------
+    |-----------------------------------------
+    ---------------------------------
     |
     | This option allows you to easily specify that all of your session data
     | should be encrypted before it is stored. All encryption will be run

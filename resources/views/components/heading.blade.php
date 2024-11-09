@@ -1,4 +1,4 @@
-<header>
+<header class="w-full ">
     <div class="py-5 mb-5 flex justify-end items-center">
         <!-- Foto Profil di Pojok Kanan Atas -->
         <div class="flex items-center space-x-4">

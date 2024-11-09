@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
-    
+
     <!-- css -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
@@ -19,12 +19,12 @@
 <body>
     <div class="flex h-screen">
         @include('components.sidebar')
-        
+
         <!-- Main Content -->
-        <div class="flex-1 sm:ml-[280px] px-10">
+        <div class="flex-1 sm:ml-[280px] px-10 max-w-[calc(100%-280px)] ">
             @include('components.heading')
             <!-- Content -->
-            <main class="pb-[60px]">
+            <main class="pb-[60px] ">
                 @yield('content')
             </main>
         </div>
